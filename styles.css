@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+  border: 1px solid #ddd;
+}
+img {
+  width: 300px;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.card {
+  width: 332px;
+  padding: 0 15px;
+  margin: 15px;
+  background-color: #66CDAA;
+  box-shadow: 5px 5px 0px rgba(153,153,153,0.5);
+}
+.info-box {
+  margin: 15px 0;
+}
+.info {
+  padding: 15px;
+  margin: 0;
+}
+.info-mid-section {
+  padding: 0 15px;
+  margin: 0;
+}
+.item-name {
+  font-weight: bold;
+}
+
